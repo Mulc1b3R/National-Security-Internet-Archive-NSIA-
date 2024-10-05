@@ -13,7 +13,7 @@ collectors and activists.
 * Example : 'ia download nationalsecurityarchive-weisberg '  will create a folder and download the files to that folder.
 * To find the file name , use the name at the end of the urlstring 'https://archive.org/details/ 'in your browser address bar.
 * In the above example 'https://archive.org/details/nationalsecurityarchive-weisberg' = 'ia download nationalsecurityarchive-weisberg'
-* url.py rebuilds any urlstrings in the event that you need to do so using html files from'download' pages saved locally . re-creating live links.
+
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 The archive is a treasure trove of declassified data including :
