@@ -4,6 +4,15 @@ the Black Vault, the Government Attic, Paperless Archives, Ernie Lazar, the Inte
 collectors and activists.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+* To use 'national security archive online viewer.html' just double click from desktop.
+* Files can be dowloaded direct from internet archive or using the commandline interface found here : https://github.com/jjjake/internetarchive
+* Clone the above repo ' https://github.com/jjjake/internetarchive.git '
+* In the directory of the cloned repo type 'pip install internetarchive' to install the CLI
+* To download files use 'ia download' command followed by the filename .
+* Example : 'ia download nationalsecurityarchive-weisberg '  will create a folder and download the files to that folder.
+* To find the file name , use the name at the end of the urlstring 'https://archive.org/details/ 'in your browser
+*  which in the above example is 'https://archive.org/details/nationalsecurityarchive-weisberg' .
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 * U.S. State Department
 * Central Intelligence Agency collection
 * Office of Strategic Services
