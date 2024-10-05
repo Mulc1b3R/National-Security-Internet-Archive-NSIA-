@@ -15,6 +15,9 @@ collectors and activists.
 * In the above example 'https://archive.org/details/nationalsecurityarchive-weisberg' = 'ia download nationalsecurityarchive-weisberg'
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Alt Text](show-all.png)
+
+
+    Click 'show all' to go to downloads page
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 The archive is a treasure trove of declassified data including :
 
