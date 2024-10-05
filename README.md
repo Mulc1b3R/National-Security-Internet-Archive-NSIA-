@@ -19,6 +19,11 @@ collectors and activists.
 
     Click 'show all' to go to downloads page
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ![Alt Text](downloads.png)
+
+    Click links to download files
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 The archive is a treasure trove of declassified data including :
 
 * U.S. State Department
