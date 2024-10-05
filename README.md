@@ -4,15 +4,18 @@ the Black Vault, the Government Attic, Paperless Archives, Ernie Lazar, the Inte
 collectors and activists.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-* To use 'national security archive online viewer.html' just double click from desktop.
+* To use 'national security archive online viewer.html' just double click from desktop , this will enable remote viewing via iframe.
+* To visit internet.org national security archive in your browser double click the 'Central Intelligence Agency.url' from this repo.
 * Files can be dowloaded direct from internet archive or using the commandline interface found here : https://github.com/jjjake/internetarchive
 * Clone the above repo ' https://github.com/jjjake/internetarchive.git '
 * In the directory of the cloned repo type 'pip install internetarchive' to install the CLI
 * To download files use 'ia download' command followed by the filename .
 * Example : 'ia download nationalsecurityarchive-weisberg '  will create a folder and download the files to that folder.
-* To find the file name , use the name at the end of the urlstring 'https://archive.org/details/ 'in your browser
-*  which in the above example is 'https://archive.org/details/nationalsecurityarchive-weisberg' .
+* To find the file name , use the name at the end of the urlstring 'https://archive.org/details/ 'in your browser address bar.
+* In the above example 'https://archive.org/details/nationalsecurityarchive-weisberg' = 'ia download nationalsecurityarchive-weisberg'
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+The archive is a treasure trove of declassified data including :
+
 * U.S. State Department
 * Central Intelligence Agency collection
 * Office of Strategic Services
@@ -60,5 +63,11 @@ collectors and activists.
 * FBI Break-ins, Wiretaps and Bugs
 * Voynich Manuscript: An Elegant Enigma
 * ICEBERG
-* 
-* Storage_size 20.6 TB (in 32,078,290 files)
+-----------------------------------------------------------------------------------------------------------------------------------------
+ 
+The total size on disk is : Storage_size 20.6 TB (in 32,078,290 files)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Links created by 'Distributed denial of secrets' URL: http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion
+
+----------------------------------------------------------------------------------------------------------------------------------------
