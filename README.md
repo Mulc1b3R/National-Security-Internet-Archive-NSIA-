@@ -78,6 +78,6 @@ The archive is a treasure trove of declassified data including :
 The total size on disk is : Storage_size 20.6 TB (in 32,078,290 files)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-Links created by 'Distributed denial of secrets' URL: http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion
+Links created by 'Distributed denial of secrets'.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
